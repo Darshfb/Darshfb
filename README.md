@@ -14,16 +14,14 @@
 
 I'm a Flutter devloper who has been passionate about this field, and i am seeking for New opportunities, to get more experience.
 
-<h3> Good knowledge of Using Flutter-bloc State Management. </h3>
-
-🔍 
-🔍 Using Third-party libraries in Flutter and Dart packages.
-🔍 Dealing with null safety.
-🔍 Dealing with rest Api's Json.
-🔍 Dealing with swagger.
-🔍 Dealing SQflite - Local database -.
-🔍 Writing clean code based on business layers.
-🔍 Dealing with localization to enable apps with multiple languages.
-
+<h3> 🔍 Good knowledge of Using Flutter-bloc State Management. </h3>
+<h3> 🔍 Using Third-party libraries in Flutter and Dart packages. </h3>
+<h3> 🔍 Dealing with null safety. </h3>
+<h3> 🔍 Dealing with rest Api's Json. </h3>
+<h3> 🔍 Dealing with swagger. </h3>
+<h3> 🔍 Dealing SQflite - Local database -. </h3>
+<h3> 🔍 Writing clean code based on business layers. </h3>
+<h3> 🔍 Dealing with localization to enable apps with multiple languages. </h3>
+<h3> 🔍 Dealing with responsive and adaptive. </h3>
 
 - 🔍💬🔭 Ask me about ** 💎Flutter💎 ** 🔍💬🔭
