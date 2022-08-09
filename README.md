@@ -14,15 +14,14 @@
 
 I'm a Flutter devloper who has been passionate about this field, and i am seeking for New opportunities, to get more experience.
 
-I can deel with flutter framwork
-🔍 Good knowledge of Using Flutter-bloc State Management
-🔍 Using Third-party libraries in Flutter and Dart packages
-🔍 Dealing with null safety
-🔍 Dealing with rest Api's Json
-🔍 Dealing with swagger
-🔍 Dealing SQflite - Local database -
-🔍 Writing clean code based on business layers
-🔍 Dealing with localization to enable apps with multiple languages
+🔍 Good knowledge of Using Flutter-bloc State Management.
+🔍 Using Third-party libraries in Flutter and Dart packages.
+🔍 Dealing with null safety.
+🔍 Dealing with rest Api's Json.
+🔍 Dealing with swagger.
+🔍 Dealing SQflite - Local database -.
+🔍 Writing clean code based on business layers.
+🔍 Dealing with localization to enable apps with multiple languages.
 
 
 - 🔍💬🔭 Ask me about ** 💎Flutter💎 ** 🔍💬🔭
