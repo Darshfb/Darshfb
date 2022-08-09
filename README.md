@@ -1,5 +1,7 @@
 
 <h1 align="center">Hi, This is Mostafa Mahmoud 👋</h1>
+<h3 align="center">Flutter Developer 💎</h3>
+
 <p align="center">
     <a href="https://twitter.com/darshfc"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/mostafamahmoudaboads/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -10,7 +12,17 @@
   
   <img src="https://avatars.githubusercontent.com/u/88770750?s=400&u=afa4dd797ee1e7ed41174826e69cbed30af6cba1&v=4" align="right" width="25%"/>
 
-I'm a flutter developer who is passionate about computer's skills.
+I'm a Flutter devloper who has been passionate about this field, and i am seeking for New opportunities, to get more experience.
+
+I can deel with flutter framwork
+🔍 Good knowledge of Using Flutter-bloc State Management
+🔍 Using Third-party libraries in Flutter and Dart packages
+🔍 Dealing with null safety
+🔍 Dealing with rest Api's Json
+🔍 Dealing with swagger
+🔍 Dealing SQflite - Local database -
+🔍 Writing clean code based on business layers
+🔍 Dealing with localization to enable apps with multiple languages
 
 
-- 🔍💬🔭 Ask me about **Flutter**
+- 🔍💬🔭 Ask me about ** 💎Flutter💎 ** 🔍💬🔭
