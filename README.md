@@ -14,7 +14,7 @@
 
 I'm a Flutter devloper who has been passionate about this field, and i am seeking for New opportunities, to get more experience.
 
-<h3 Good knowledge of Using Flutter-bloc State Management. </h3>
+<h3> Good knowledge of Using Flutter-bloc State Management. </h3>
 
 🔍 
 🔍 Using Third-party libraries in Flutter and Dart packages.
