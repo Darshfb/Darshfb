@@ -12,9 +12,9 @@
   
   <img src="https://avatars.githubusercontent.com/u/88770750?s=400&u=afa4dd797ee1e7ed41174826e69cbed30af6cba1&v=4" align="right" width="25%"/>
 <hr>
-<h1 align="right">I'm a Flutter devloper who has been passionate about this field, and i am seeking for New opportunities, to get more experience.👋</h1>
+<h1 align="left">I'm a Flutter devloper who has been passionate about this field, and i am seeking for New opportunities, to get more experience.👋</h1>
 
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" width="50%"/>
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" width="40%"/>
 
 - 📫 How to reach me **mostafamahmoudaboads@gmail.com**
 <hr>
