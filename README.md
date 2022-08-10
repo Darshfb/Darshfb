@@ -11,7 +11,6 @@
   </p>
   
   <img src="https://avatars.githubusercontent.com/u/88770750?s=400&u=afa4dd797ee1e7ed41174826e69cbed30af6cba1&v=4" align="right" width="25%"/>
-<hr>
 
 I'm a Flutter devloper who has been passionate about this field, and i am seeking for New opportunities, to get more experience.
 <hr>
