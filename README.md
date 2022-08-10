@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, This is Mostafa Mahmoud 👋</h1>
 <h3 align="center">Flutter Developer 💎</h3>
-<hr>
+
 <p align="center">
     <a href="https://twitter.com/darshfc"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/mostafamahmoudaboads/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
