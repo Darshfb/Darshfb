@@ -11,10 +11,12 @@
   </p>
   
   <img src="https://avatars.githubusercontent.com/u/88770750?s=400&u=afa4dd797ee1e7ed41174826e69cbed30af6cba1&v=4" align="right" width="25%"/>
+<hr>
 
 I'm a Flutter devloper who has been passionate about this field, and i am seeking for New opportunities, to get more experience.
-
+<hr>
 - 📫 How to reach me **mostafamahmoudaboads@gmail.com**
+<hr>
 
 <h3> 🔍 Good knowledge of Using Flutter-bloc State Management. </h3>
 <h3> 🔍 Using Third-party libraries in Flutter and Dart packages. </h3>
@@ -26,7 +28,13 @@ I'm a Flutter devloper who has been passionate about this field, and i am seekin
 <h3> 🔍 Dealing with localization to enable apps with multiple languages. </h3>
 <h3> 🔍 Dealing with responsive and adaptive. </h3>
 
+<hr>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </a> </p>
 
+<hr>
+
 <h3 align="left"> - 🔍💬🔭 Ask me about ** 💎Flutter💎 ** 🔍💬🔭</h3>
+
+<hr>
