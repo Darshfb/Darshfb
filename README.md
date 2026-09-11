@@ -7,7 +7,7 @@ alt="Typing SVG"
 
 <br/>
 
-Senior Software QA Engineer • Flutter Developer
+Senior QA Engineer | Flutter Developer | Automation & API Testing
 
 I build software — and I make sure it works.
 
